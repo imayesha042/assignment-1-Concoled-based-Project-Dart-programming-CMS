@@ -1,0 +1,68 @@
+2024-09-09 18:13:24.602559 - User Registration: User ID: 1, Name: ayesha
+2024-09-09 18:13:33.821388 - User Login: User ID: 1
+2024-09-09 18:13:45.405138 - User Log Out: User ID: 1
+2024-09-09 18:13:48.211713 - Backup: Data backed up successfully
+2024-09-09 18:13:52.045728 - Restore: Data restored successfully
+2024-09-09 18:27:33.183416 - User Registration: User ID: 1, Name: 1
+2024-09-09 18:27:37.814173 - User Login: User ID: 1
+2024-09-09 18:27:55.666294 - User Log Out: User ID: 1
+2024-09-09 19:29:51.255686 - Backup: Data backed up successfully
+2024-09-09 19:29:54.088156 - Restore: Data restored successfully
+2024-09-09 19:30:01.005542 - User Registration: User ID: 2, Name: 3
+2024-09-09 19:30:02.881812 - Backup: Data backed up successfully
+2024-09-09 19:38:47.342930 - User Registration: User ID: 1, Name: 1
+2024-09-09 20:23:23.538835 - Create Committee: Committee ID: 3063, Name: ayesha
+2024-09-09 20:23:38.199690 - Add Member: Member ID: 1 added to Committee ID: 3063
+2024-09-09 20:23:50.341358 - Add Member: Member ID: 4 added to Committee ID: 3063
+2024-09-09 20:24:47.408830 - Modify Committee Requirements: Committee ID: 3063, New Required Members: 1
+2024-09-09 20:25:05.697275 - Create Committee: Committee ID: 6001, Name: u
+2024-09-09 20:25:19.828272 - Merge Committees: First Committee ID: 3063 merged with Second Committee ID: 6001
+2024-09-09 20:25:48.264432 - Set Reminders: Reminders sent for Committee ID: 3063
+2024-09-09 20:47:43.088154 - User Registration: User ID: 1, Name: 2
+2024-09-09 20:47:52.506188 - User Login: User ID: 1
+2024-09-09 20:48:12.454230 - User Log Out: User ID: 1
+2024-09-09 20:53:50.739451 - User Registration: User ID: 1, Name: 1
+2024-09-09 20:53:53.574256 - User Login: User ID: 1
+2024-09-09 20:54:20.518559 - Create Committee: Committee ID: 2937, Name: w
+2024-09-09 21:00:01.753708 - Create Committee: Committee ID: 9022, Name: 1
+2024-09-09 21:00:24.961479 - Add Member: Committee ID: 9022, Member ID: 1
+2024-09-09 21:00:36.075502 - View Statistics: Viewed statistics.
+2024-09-09 21:03:17.341794 - Backup: Data backed up successfully
+2024-09-09 21:03:24.124015 - Restore: Data restored successfully
+2024-09-09 21:03:39.254425 - Create Committee: Committee ID: 7897, Name: 1
+2024-09-09 21:04:00.541863 - Add Member: Committee ID: 7897, Member ID: 1, Name: ayesha
+2024-09-10 04:08:05.059766 - Create Committee: Committee ID: 1709, Name: ayesha
+2024-09-10 04:08:35.089295 - Add Member: Committee ID: 1709, Member ID: 0, Name: ayesha
+2024-09-10 04:08:58.013004 - Add Member: Committee ID: 1709, Member ID: 7, Name: usman
+2024-09-10 04:09:19.203204 - Select Committee Member: Committee ID: 1709, Member ID: 0
+2024-09-10 04:09:37.140600 - View Statistics: Viewed statistics.
+2024-09-10 04:09:58.457288 - View Committee Members: Committee ID: 1709
+2024-09-10 04:10:19.833573 - View Popularity Insights: Viewed popularity insights.
+2024-09-10 04:10:46.349392 - Modify Committee Requirements: Committee ID: 1709
+2024-09-10 04:10:54.958652 - Backup: Data backed up successfully
+2024-09-10 04:11:44.808887 - Create Committee: Committee ID: 2053, Name: u
+2024-09-10 04:12:09.215171 - Add Member: Committee ID: 2053, Member ID: 9, Name: 9
+2024-09-10 04:12:29.338785 - User Registration: User ID: 9, Name: 7
+2024-09-10 04:12:38.484861 - User Login: User ID: 9
+2024-09-10 04:12:52.223202 - View Committee Details: Committee ID: 2053
+2024-09-10 04:18:15.446808 - Create Committee: Committee ID: 5331, Name: u
+2024-09-10 04:18:48.968601 - Add Member: Committee ID: 5331, Member ID: 9, Role: Chairperson
+2024-09-10 04:20:05.144562 - Create Committee: Committee ID: 7230, Name: u
+2024-09-10 04:21:31.745271 - User Registration: User ID: 2, Name: 8
+2024-09-10 04:21:37.001179 - User Login: User ID: 2
+2024-09-10 04:22:13.677499 - View Committee Details: Committee ID: 7230
+2024-09-10 04:22:41.364140 - User Log Out: User ID: 2
+2024-09-10 04:23:11.019648 - Add Member: Committee ID: 7230, Member ID: 8, Role: Treasurer
+2024-09-10 04:23:33.824021 - User Registration: User ID: 0, Name: 0
+2024-09-10 04:23:39.626036 - User Login: User ID: 0
+2024-09-10 04:24:07.722146 - View Committee Details: Committee ID: 7230
+2024-09-10 04:26:48.561446 - User Log Out: User ID: 0
+2024-09-10 04:27:41.789090 - Select Committee Member: Committee ID: 7230, Member ID: 8
+2024-09-10 05:03:05.550071 - Create Committee: Committee ID: 4463, Name: y
+2024-09-10 05:04:05.591959 - Add Member: Committee ID: 4463, Member ID: 1, Role: Member
+2024-09-10 05:04:20.445975 - Select Committee Member: Committee ID: 4463, Member ID: 1
+2024-09-10 05:06:41.724479 - Select Committee Member: Committee ID: 4463, Member ID: 1
+2024-09-10 05:10:59.287402 - Add to Waiting List: Committee ID: 4463, Member ID: 8
+2024-09-10 05:11:55.205303 - Create Committee: Committee ID: 6339, Name: u
+2024-09-10 05:12:22.312064 - Add Member: Committee ID: 6339, Member ID: 8, Role: Member
+2024-09-10 05:12:41.247369 - Select Committee Member: Committee ID: 6339, Member ID: 8

@@ -1,2 +1,2 @@
-# assignment-1-Concoled-based-Project-Dart-programming-CMS
-Concoled based Project Dart programming CMS 
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
